@@ -1,0 +1,20 @@
+
+.position-relative {
+    position: relative;
+  }
+  
+  .floating-menu {
+    position: absolute;
+    /* top: 100%; */
+    left: 80%;
+    width: 200px;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    padding: 10px 0;
+    z-index: 1000;
+  }
+
+  .list-group{
+    font-size: .8rem;
+  }
